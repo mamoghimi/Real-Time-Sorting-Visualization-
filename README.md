@@ -52,9 +52,4 @@ The program visualizes sorting like this:
 arr = np.random.randint(1, 100, 100)  # Change size or range as needed
 ```
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for more information.
-
----
-
 Feel free to explore and modify the code to learn more about sorting algorithms and their visual representation!
