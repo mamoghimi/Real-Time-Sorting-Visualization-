@@ -53,3 +53,35 @@ arr = np.random.randint(1, 100, 100)  # Change size or range as needed
 ```
 
 Feel free to explore and modify the code to learn more about sorting algorithms and their visual representation!
+
+## Output Example 
+- Selection Sort
+
+https://github.com/user-attachments/assets/591425d8-fc4b-4145-934e-c8b246b9a396
+
+- Heap Sort
+
+https://github.com/user-attachments/assets/6840fd48-7fcb-40c4-96df-b516cb814338
+
+- Quick Sort
+
+https://github.com/user-attachments/assets/a2120ea8-9124-4a03-9227-875fadd500b4
+
+- Insertion Sort
+
+https://github.com/user-attachments/assets/b794f727-c41c-4f51-9133-fd84568ef06d
+
+- Bubble Sort
+
+https://github.com/user-attachments/assets/f1d2b4ca-ac6b-4aab-8347-1d7686e2c057
+
+
+  
+
+
+  
+
+
+
+
+
